@@ -5,6 +5,10 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>JsonConvertor </name>
 	<description>convert json to java object or java object to json</description>
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<java.version>1.8</java.version>
+	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
